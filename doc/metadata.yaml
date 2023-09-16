@@ -9,6 +9,7 @@ images:
 - doc/img/PIC18F4550v01A_QRcode.png
 - fzp/PIC18F4550.svg
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
