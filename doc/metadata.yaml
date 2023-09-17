@@ -1,4 +1,5 @@
-description: null
+description: The processor module for MICROCHIP PIC18F4550 in TQFP44 package consists
+  of processor, headers, programming header, USB interface and RESET push button.
 github_branch: PIC18F4550v01A
 github_repo: PIC18F4550v01
 github_url: https://github.com/mlab-modules/PIC18F4550v01

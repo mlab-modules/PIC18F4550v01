@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/PIC18F4550v01
-summary: null
+summary: The processor module for MICROCHIP PIC18F4550 in TQFP44 package consists
+  of processor, headers, programming header, USB interface and RESET push button.
